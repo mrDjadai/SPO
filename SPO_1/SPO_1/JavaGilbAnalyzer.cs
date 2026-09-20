@@ -195,7 +195,7 @@ namespace SPO_1
                     braceDepth--;
                     if (braceDepth == 0) break;
                 }
-                else if (t == "case" && braceDepth == 1)
+                else if (t == "case" || t == "default" && braceDepth == 1)
                 {
                     caseCount++;
                 }

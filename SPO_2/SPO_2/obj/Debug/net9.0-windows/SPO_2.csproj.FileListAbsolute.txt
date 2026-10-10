@@ -1,0 +1,17 @@
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\bin\Debug\net9.0-windows\SPO_2.exe
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\bin\Debug\net9.0-windows\SPO_2.deps.json
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\bin\Debug\net9.0-windows\SPO_2.runtimeconfig.json
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\bin\Debug\net9.0-windows\SPO_2.dll
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\bin\Debug\net9.0-windows\SPO_2.pdb
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\obj\Debug\net9.0-windows\SPO_2.Form1.resources
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\obj\Debug\net9.0-windows\SPO_2.csproj.GenerateResource.cache
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\obj\Debug\net9.0-windows\SPO_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\obj\Debug\net9.0-windows\SPO_2.AssemblyInfoInputs.cache
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\obj\Debug\net9.0-windows\SPO_2.AssemblyInfo.cs
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\obj\Debug\net9.0-windows\SPO_2.csproj.CoreCompileInputs.cache
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\obj\Debug\net9.0-windows\SPO_2.sourcelink.json
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\obj\Debug\net9.0-windows\SPO_2.dll
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\obj\Debug\net9.0-windows\refint\SPO_2.dll
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\obj\Debug\net9.0-windows\SPO_2.pdb
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\obj\Debug\net9.0-windows\SPO_2.genruntimeconfig.cache
+C:\MyFiles\Study\SPO\SPO\SPO_2\SPO_2\obj\Debug\net9.0-windows\ref\SPO_2.dll

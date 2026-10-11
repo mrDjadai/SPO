@@ -38,8 +38,7 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAHIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-10T09:57:11.224Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "..\\SPO_1\\SPO_1\\Form1.cs",
               "ViewState": "AgIAAJcAAAAAAAAAAAAswKoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T09:57:46.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-10T09:57:46.761Z"
             },
             {
               "$type": "Document",
@@ -62,7 +60,7 @@
               "RelativeDocumentMoniker": "SPO_2\\GilbAnalizer.cs",
               "ToolTip": "C:\\MyFiles\\Study\\SPO\\SPO\\SPO_2\\SPO_2\\GilbAnalizer.cs",
               "RelativeToolTip": "SPO_2\\GilbAnalizer.cs",
-              "ViewState": "AgIAANYAAAAAAAAAAAAswOkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAANkAAAAAAAAAAAAswOUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-10T09:56:30.045Z",
               "EditorCaption": ""
@@ -77,8 +75,7 @@
               "RelativeToolTip": "SPO_2\\Form1.Designer.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T09:55:32.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-10T09:55:32.537Z"
             }
           ]
         }

@@ -227,7 +227,7 @@ namespace SPO_2
             {
                 CL = cl,
                 CLI = maxOpenIfs > 0 ? maxOpenIfs - 1 : 0,
-                TotalStatements = statements
+                TotalStatements = statements + cl
             };
             result.Cl = statements > 0 ? (double)cl / statements : 0.0;
             return result;

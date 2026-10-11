@@ -222,12 +222,13 @@ namespace SPO_2
                         break;
                 }
             }
+            statements += cl;
 
             var result = new GilbResult
             {
                 CL = cl,
                 CLI = maxOpenIfs > 0 ? maxOpenIfs - 1 : 0,
-                TotalStatements = statements + cl
+                TotalStatements = statements
             };
             result.Cl = statements > 0 ? (double)cl / statements : 0.0;
             return result;

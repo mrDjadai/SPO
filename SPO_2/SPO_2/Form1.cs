@@ -153,14 +153,7 @@ namespace SPO_2
                     $"Абсолютная сложность CL       = {r.CL}\r\n" +
                     $"Относительная сложность cl    = {r.Cl:F4}\r\n" +
                     $"Макс. уровень вложенности CLI = {r.CLI}\r\n" +
-                    $"Всего операторов (по ';')     = {r.TotalStatements}\r\n\r\n" +
-                    "Пояснение:\r\n" +
-                    "- CL — сумма всех ветвлений\r\n" +
-                    "  (if, else-if, for, while, do, switch, ?:).\r\n" +
-                    "- switch с n case-метками учитывается\r\n" +
-                    "  как n-1 if, вложенность — n-2.\r\n" +
-                    "- default и селектор switch не учитываются.\r\n" +
-                    "- cl = CL / количество операторов.\r\n";
+                    $"Всего операторов              = {r.TotalStatements}\r\n\r\n";
             }
             catch (Exception ex)
             {

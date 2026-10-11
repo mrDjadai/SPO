@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\MyFiles\\Study\\SPO\\SPO\\SPO_2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D56B319-09E7-4911-A70F-EFFDAED257FC}|SPO_2\\SPO_2.csproj|c:\\myfiles\\study\\spo\\spo\\spo_2\\spo_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D56B319-09E7-4911-A70F-EFFDAED257FC}|SPO_2\\SPO_2.csproj|solutionrelative:spo_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D56B319-09E7-4911-A70F-EFFDAED257FC}|SPO_2\\SPO_2.csproj|c:\\myfiles\\study\\spo\\spo\\spo_2\\spo_2\\gilbanalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D56B319-09E7-4911-A70F-EFFDAED257FC}|SPO_2\\SPO_2.csproj|solutionrelative:spo_2\\gilbanalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MyFiles\\Study\\SPO\\SPO\\SPO_1\\SPO_1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D56B319-09E7-4911-A70F-EFFDAED257FC}|SPO_2\\SPO_2.csproj|c:\\myfiles\\study\\spo\\spo\\spo_2\\spo_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D56B319-09E7-4911-A70F-EFFDAED257FC}|SPO_2\\SPO_2.csproj|solutionrelative:spo_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D56B319-09E7-4911-A70F-EFFDAED257FC}|SPO_2\\SPO_2.csproj|c:\\myfiles\\study\\spo\\spo\\spo_2\\spo_2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,24 +25,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\MyFiles\\Study\\SPO\\SPO\\SPO_2\\SPO_2\\Form1.cs",
               "RelativeDocumentMoniker": "SPO_2\\Form1.cs",
               "ToolTip": "C:\\MyFiles\\Study\\SPO\\SPO\\SPO_2\\SPO_2\\Form1.cs",
               "RelativeToolTip": "SPO_2\\Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAvwJsAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-10T09:57:11.224Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\MyFiles\\Study\\SPO\\SPO\\SPO_1\\SPO_1\\Form1.cs",
               "RelativeDocumentMoniker": "..\\SPO_1\\SPO_1\\Form1.cs",
@@ -54,16 +55,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GilbAnalizer.cs",
               "DocumentMoniker": "C:\\MyFiles\\Study\\SPO\\SPO\\SPO_2\\SPO_2\\GilbAnalizer.cs",
               "RelativeDocumentMoniker": "SPO_2\\GilbAnalizer.cs",
               "ToolTip": "C:\\MyFiles\\Study\\SPO\\SPO\\SPO_2\\SPO_2\\GilbAnalizer.cs",
               "RelativeToolTip": "SPO_2\\GilbAnalizer.cs",
-              "ViewState": "AgIAANkAAAAAAAAAAAAswOUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAvwOsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T09:56:30.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-10T09:56:30.045Z"
             },
             {
               "$type": "Document",
